@@ -1,0 +1,7 @@
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\bin\Debug\Lab4.exe
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\bin\Debug\Lab4.pdb
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\obj\Debug\Lab4.exe
+C:\Users\hakob\source\repos\Csharp_Projects\Labs\Lab4\obj\Debug\Lab4.pdb
